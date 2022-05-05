@@ -1,3 +1,3 @@
 # HardwareProjects
 
-Hello, welcome to my hardware projects or more specifically, projects written to be run on an FPGA.
+Projects that are developed to run on an ARM based SoC (System-on-Chip)
