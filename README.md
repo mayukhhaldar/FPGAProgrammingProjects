@@ -19,3 +19,5 @@ UP Arrow: Go up
 DOWN Arrow: Go down
 Left Arrow: Go left
 Right Arrow: Go right
+
+This game has been developed with my partner Hassan Khan.
